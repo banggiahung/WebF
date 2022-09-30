@@ -1,0 +1,24 @@
+        .login {
+            background: url(./images/background1.jpg) no-repeat center center fixed;
+            background-size: cover;
+            width: 100%;
+            height: 100vh;
+            background-position: top right;
+            padding-top: 70px;
+        }
+        
+        .home {
+            background-image: url(./images/bg-home1.jpg);
+            background-size: cover;
+            width: auto;
+            height: 100vh;
+            background-position: center;
+        }
+        
+        .bg-nav {
+            background-image: url(./images/bg-home1.jpg);
+            background-size: cover;
+            width: auto;
+            height: auto;
+            background-position: center;
+        }
